@@ -2,6 +2,8 @@
 
 Калькулятор на C# Windows Forms с выбором операции через RadioButton.
 
+<img width="739" height="828" alt="calc-winforms-radiobutton" src="https://github.com/user-attachments/assets/fc1cfad5-9f03-4661-88a8-7b0cbfc9b432" />
+
 ## Функциональность
 
 - Ввод двух чисел
